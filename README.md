@@ -1,9 +1,10 @@
-# 🐍 Roadmap de Lógica de Programação em Python
+# Roadmap de Ciência de Dados
 
 Este roadmap organiza os principais conceitos de lógica de programação usando **Python**.  
 A ideia é começar do zero e evoluir até construir pequenos projetos práticos. 🚀  
 
 ---
+# Lógica de Programação em Python
 
 ## 📖 1. Fundamentos da Programação
 - 📝 O que é lógica de programação?  
